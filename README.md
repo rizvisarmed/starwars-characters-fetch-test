@@ -23,3 +23,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Task
 
 The instructions are in the root app/page.tsx
+
+## Deployed Link
+
+https://starwars-characters-fetch-test.vercel.app/
